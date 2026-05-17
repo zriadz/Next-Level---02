@@ -1,3 +1,5 @@
+***** Generic is great thing *****
+
 Generics write one version of a function or component that adapts to many types. It enforces strict type rules. Both flexibility and safety is obtained. There is no more sacrificing correctness for reusability.
 
 
